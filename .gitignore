@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+*.egg-info/
+
+# CDK
+cdk.out/
+
+# Node / React
+node_modules/
+dist/
+.env.local
+.env.production
+
+# Amplify
+amplify_outputs.json
+.amplify/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
