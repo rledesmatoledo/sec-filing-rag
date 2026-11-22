@@ -4,6 +4,10 @@ A full-stack Retrieval-Augmented Generation (RAG) application that answers finan
 
 Built as part of the MLT (Management Leadership for Tomorrow) GenAI Course.
 
+## Demo
+
+![Partner Bot UI](demo-form.png)
+
 ## Tech Stack
 
 **Backend:** Python 3.12, AWS Lambda, AWS CDK, AWS SAM, AWS Bedrock (Claude Sonnet 4.5 via Converse API), SEC EDGAR API, API Gateway HTTP API with JWT authorizer
