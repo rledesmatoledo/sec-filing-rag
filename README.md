@@ -2,7 +2,7 @@
 
 A full-stack Retrieval-Augmented Generation (RAG) application that answers financial questions using real SEC 10-Q and 10-K filings. Users ask a question about a public company financials, and the system retrieves the actual SEC filing, extracts the relevant text, and uses Claude AI to generate a grounded answer citing figures directly from the source document.
 
-Built as part of the MLT (Management Leadership for Tomorrow) GenAI Engineering Course.
+Built as part of the MLT (Management Leadership for Tomorrow) GenAI Course.
 
 ## Tech Stack
 
